@@ -1,0 +1,15 @@
+C:\Examples\example003_chisla\bin\Debug\net6.0\example003_chisla.exe
+C:\Examples\example003_chisla\bin\Debug\net6.0\example003_chisla.deps.json
+C:\Examples\example003_chisla\bin\Debug\net6.0\example003_chisla.runtimeconfig.json
+C:\Examples\example003_chisla\bin\Debug\net6.0\example003_chisla.dll
+C:\Examples\example003_chisla\bin\Debug\net6.0\example003_chisla.pdb
+C:\Examples\example003_chisla\obj\Debug\net6.0\example003_chisla.csproj.AssemblyReference.cache
+C:\Examples\example003_chisla\obj\Debug\net6.0\example003_chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\example003_chisla\obj\Debug\net6.0\example003_chisla.AssemblyInfoInputs.cache
+C:\Examples\example003_chisla\obj\Debug\net6.0\example003_chisla.AssemblyInfo.cs
+C:\Examples\example003_chisla\obj\Debug\net6.0\example003_chisla.csproj.CoreCompileInputs.cache
+C:\Examples\example003_chisla\obj\Debug\net6.0\example003_chisla.dll
+C:\Examples\example003_chisla\obj\Debug\net6.0\refint\example003_chisla.dll
+C:\Examples\example003_chisla\obj\Debug\net6.0\example003_chisla.pdb
+C:\Examples\example003_chisla\obj\Debug\net6.0\example003_chisla.genruntimeconfig.cache
+C:\Examples\example003_chisla\obj\Debug\net6.0\ref\example003_chisla.dll
