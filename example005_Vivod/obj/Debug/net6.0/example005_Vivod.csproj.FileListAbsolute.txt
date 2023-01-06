@@ -1,0 +1,15 @@
+C:\Examples\example005_Vivod\obj\Debug\net6.0\example005_Vivod.csproj.AssemblyReference.cache
+C:\Examples\example005_Vivod\obj\Debug\net6.0\example005_Vivod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\example005_Vivod\obj\Debug\net6.0\example005_Vivod.AssemblyInfoInputs.cache
+C:\Examples\example005_Vivod\obj\Debug\net6.0\example005_Vivod.AssemblyInfo.cs
+C:\Examples\example005_Vivod\obj\Debug\net6.0\example005_Vivod.csproj.CoreCompileInputs.cache
+C:\Examples\example005_Vivod\bin\Debug\net6.0\example005_Vivod.exe
+C:\Examples\example005_Vivod\bin\Debug\net6.0\example005_Vivod.deps.json
+C:\Examples\example005_Vivod\bin\Debug\net6.0\example005_Vivod.runtimeconfig.json
+C:\Examples\example005_Vivod\bin\Debug\net6.0\example005_Vivod.dll
+C:\Examples\example005_Vivod\bin\Debug\net6.0\example005_Vivod.pdb
+C:\Examples\example005_Vivod\obj\Debug\net6.0\example005_Vivod.dll
+C:\Examples\example005_Vivod\obj\Debug\net6.0\refint\example005_Vivod.dll
+C:\Examples\example005_Vivod\obj\Debug\net6.0\example005_Vivod.pdb
+C:\Examples\example005_Vivod\obj\Debug\net6.0\example005_Vivod.genruntimeconfig.cache
+C:\Examples\example005_Vivod\obj\Debug\net6.0\ref\example005_Vivod.dll
