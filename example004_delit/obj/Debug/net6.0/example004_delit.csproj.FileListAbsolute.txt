@@ -1,0 +1,15 @@
+C:\Examples\example004_delit\bin\Debug\net6.0\example004_delit.exe
+C:\Examples\example004_delit\bin\Debug\net6.0\example004_delit.deps.json
+C:\Examples\example004_delit\bin\Debug\net6.0\example004_delit.runtimeconfig.json
+C:\Examples\example004_delit\bin\Debug\net6.0\example004_delit.dll
+C:\Examples\example004_delit\bin\Debug\net6.0\example004_delit.pdb
+C:\Examples\example004_delit\obj\Debug\net6.0\example004_delit.csproj.AssemblyReference.cache
+C:\Examples\example004_delit\obj\Debug\net6.0\example004_delit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\example004_delit\obj\Debug\net6.0\example004_delit.AssemblyInfoInputs.cache
+C:\Examples\example004_delit\obj\Debug\net6.0\example004_delit.AssemblyInfo.cs
+C:\Examples\example004_delit\obj\Debug\net6.0\example004_delit.csproj.CoreCompileInputs.cache
+C:\Examples\example004_delit\obj\Debug\net6.0\example004_delit.dll
+C:\Examples\example004_delit\obj\Debug\net6.0\refint\example004_delit.dll
+C:\Examples\example004_delit\obj\Debug\net6.0\example004_delit.pdb
+C:\Examples\example004_delit\obj\Debug\net6.0\example004_delit.genruntimeconfig.cache
+C:\Examples\example004_delit\obj\Debug\net6.0\ref\example004_delit.dll
